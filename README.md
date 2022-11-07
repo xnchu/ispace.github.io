@@ -4,7 +4,7 @@
 
 iSpace is a Python package that aims to provide access to a few well-known models to the space science comminuty. It is still under active development. The models include:
 
-- Geopack2005 and Geopack 2008
+- Geopack
 - Tsyganenko magnetospheric models (T89, T96, T01, and T04)
 - Substorm current wedge inversion (under development)
 - AACGM (under development)
